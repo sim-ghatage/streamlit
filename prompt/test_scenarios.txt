@@ -1,0 +1,9 @@
+You are a QA expert. Generate a list of test scenarios based on the following feature description.
+
+Include edge cases and organize each test as:
+- Title
+- Steps
+- Expected Result
+
+Feature:
+\"\"\"{{feature_text}}\"\"\"
